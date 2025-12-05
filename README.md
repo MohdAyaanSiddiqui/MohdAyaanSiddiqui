@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohd Ayaan Siddiqui
 
-<!--
-**MohdAyaanSiddiqui/MohdAyaanSiddiqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 *Aspiring Full Stack Developer (MERN)*  
+🎓 Pursuing BCA | Passionate about Web Development  
+💡 Currently focusing on *React.js, **JavaScript, and **Backend (Node.js)*  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Skills
+
+- *Frontend:* React.js, JavaScript, HTML, CSS  
+- *State Management:* Hooks, Context API  
+- *Backend (Learning):* Node.js, Express.js  
+- *Database:* Firebase (Firestore) Basics, Git & GitHub  
+- *Tools:* VS Code, Postman, Vercel  
+
+---
+
+## 🛠 Projects
+
+### 🟢 Live Chat App (React + Firebase)
+Real-time chat with authentication and live message updates.  
+🔗 Demo: Coming soon  
+🔗 Repo: <your repo link>
+
+### 🟣 Notes App (React + Firebase Auth)
+Create, update, and manage notes securely.  
+🔗 Repo: <your repo link>
+
+### 🔵 Movie Search App (React + OMDb API)
+Search movies with dynamic UI and API integration.  
+🔗 Repo: <your repo link>
+
+### 🟠 Quiz App (React)
+Interactive quiz app using API-based questions.  
+🔗 Repo: <your repo link>
+
+### More...
+---
+
+
+## 📫 Contact Me
+
+📧 Email: *muhammadxayaan007@gmail.com*  
+🔗 Portfolio: add your link here  
+
+---
+
+⭐ Thanks for visiting my profile!
