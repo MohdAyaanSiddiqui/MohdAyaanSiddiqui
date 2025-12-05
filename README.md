@@ -12,7 +12,7 @@
 - *State Management:* Hooks, Context API  
 - *Backend (Learning):* Node.js, Express.js  
 - *Database:* Firebase (Firestore) Basics, Git & GitHub  
-- *Tools:* VS Code, Postman, Vercel  
+- *Tools:* VS Code, Cursor, Warp, TraeAI, Postman, Vercel  
 
 ---
 
