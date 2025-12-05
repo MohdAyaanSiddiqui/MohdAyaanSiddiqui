@@ -2,7 +2,7 @@
 
 🚀 *Aspiring Full Stack Developer (MERN)*  
 🎓 Pursuing BCA | Passionate about Web Development  
-💡 Currently focusing on *React.js, **JavaScript, and **Backend (Node.js)*  
+💡 Currently focusing on *React.js, **JavaScript, and **Backend (Node.js,Express.js),Database*  
 
 ---
 
