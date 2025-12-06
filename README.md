@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on React and building real-world web applications.<br>I'm looking to collaborate on frontend or MERN stack projects.<br>I'm currently learning backend development (Node.js + Express).<br>Ask me about React, JavaScript,  Node.js, Express.js, REST APIs<br>
+I'm currently working on Back-End and building real-world web applications.<br>I'm looking to collaborate on frontend or MERN stack projects.<br>I'm currently learning backend development (Node.js + Express).<br>Ask me about React, JavaScript,  Node.js, Express.js, REST APIs<br>
 
 
 ## 🌐 Socials:
